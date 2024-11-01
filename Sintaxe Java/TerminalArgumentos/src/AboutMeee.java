@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AboutMee {
+public class AboutMeee {
     public static void main(String[] args) {
         //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
